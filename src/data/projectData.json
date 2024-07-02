@@ -1,0 +1,41 @@
+{
+    "projects": [
+      {
+        "id": "1",
+        "image": "https://via.placeholder.com/150",
+        "title": "Project Alpha",
+        "description": "A revolutionary platform for managing digital assets efficiently shubham positively narrow."
+      },
+      {
+        "id": "2",
+        "image": "https://via.placeholder.com/150",
+        "title": "Beta Builder",
+        "description": "A construction management app that streamlines project planning and execution."
+      },
+      {
+        "id": "3",
+        "image": "https://via.placeholder.com/150",
+        "title": "Gamma Growth",
+        "description": "A growth analytics tool that provides deep insights into user behavior and engagement."
+      },
+      {
+        "id": "4",
+        "image": "https://via.placeholder.com/150",
+        "title": "Delta Design",
+        "description": "A design collaboration tool that enhances team productivity and creativity."
+      },
+      {
+        "id": "5",
+        "image": "https://via.placeholder.com/150",
+        "title": "Epsilon Engine",
+        "description": "A powerful game engine that offers unparalleled performance and flexibility."
+      },
+      {
+        "id": "6",
+        "image": "https://via.placeholder.com/150",
+        "title": "Zeta Zone",
+        "description": "A community platform that connects people with similar interests and passions."
+      }
+    ]
+  }
+  
